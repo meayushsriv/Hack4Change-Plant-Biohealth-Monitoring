@@ -4,4 +4,4 @@ Flask
 Pillow
 gunicorn==20.0.4
 torch==2.2.0 -f https://download.pytorch.org/whl/torch_stable.html
-torchvision==0.15.1 -f https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.19.0 -f https://download.pytorch.org/whl/torch_stable.html
